@@ -1,14 +1,14 @@
 {
-  "name": "raganork",
+  "name": "KELLYMOWL",
   "version": "3.0.0",
-  "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
-  "main": "./Raganork/bot.js",
+  "description": "KELLYMOWL whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
+  "main": "./KELLYMOWL/bot.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/Raganork.git"
+    "url": "git+https://github.com/fayasserv/KELLYMOWL.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,14 +18,14 @@
     "WhatsAsena"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Raganork / @souravkl11",
+  "developer": "KELLYMOWL / @fayasserv",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/Raganork/issues"
+    "url": "https://github.com/fayasserv/KELLYMOWL/issues"
   },
-  "homepage": "https://github.com/souravkl11/Raganork#readme",
+  "homepage": "https://github.com/fayasserv/KELLYMOWL#readme",
   "dependencies": {
-    "raganork-bot": "1.6.8",
+    "KELLYMOWL-bot": "1.6.8",
     "supervisor": "0.12.0"
   }
 }
